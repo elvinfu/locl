@@ -2,7 +2,7 @@
 
 Locl is a platform that connects SNAP benefit users with local markets and farmers, allowing them to purchase healthy food options using their EBT cards. It addresses the limitations of the EBT system, which restricts food stamp acceptance to large chain grocery stores, often lacking diverse healthy options.
 
-![Locl Logo](~/Locl Image.jpeg)
+![Locl Logo](./Locl%20Image.jpeg)
 
 ## Inspiration
 
